@@ -1,0 +1,23 @@
+body {
+    background-color: cornflowerblue;
+    margin: 3px;
+    padding: 14px;
+
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 23px;
+    color: darkgoldenrod;
+    letter-spacing: 3px;
+    text-shadow: magenta;
+}
+
+ul {
+    list-style-type: georgian;
+    
+    
+}
+ul li {
+    padding: 5px;
+}
